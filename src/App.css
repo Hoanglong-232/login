@@ -1,0 +1,34 @@
+.main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Mountains-1412683.svg/1280px-Mountains-1412683.svg.png)
+        no-repeat center center;
+    background-size: cover;
+    color: whitesmoke;
+    flex-direction: column;
+}
+
+.main-header {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.create-form label {
+    color: whitesmoke !important;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px !important;
+}
+
+.color {
+    color: #ff0000c7;
+}
+
+.size {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.none {
+    display: none;
+}

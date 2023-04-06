@@ -1,0 +1,24 @@
+.create {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.5);
+    color: whitesmoke;
+    flex-direction: column;
+}
+
+.create-form label {
+    color: whitesmoke !important;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 12px !important;
+}
+
+.space {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.tpx {
+    color: aquamarine;
+}
